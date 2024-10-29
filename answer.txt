@@ -1,0 +1,1 @@
+Không,cả 2 phương thức khởi tạo có cùng chữ kí là DVD(String abc)(vì cả category và title đều là String) nên không thể overloading.

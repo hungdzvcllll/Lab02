@@ -1,0 +1,1 @@
+Nên sử dung getter và setter khi dữ lieu cần kiểm soát để tránh sửa đổi không tốt(ví dụ sửa chiểu cao thành số nhỏ hơn 0)bang cách sử dung setter để validate
