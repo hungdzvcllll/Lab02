@@ -1,14 +1,14 @@
 import java.util.*;
 
 public class Cart {
-    private ArrayList<DigitalVideoDisc> list;
+    private ArrayList<DigitalVideoDisc> list = new ArrayList<DigitalVideoDisc>();
     private final int quantityOrdered = 20;
 
     public void setList(ArrayList<DigitalVideoDisc> list) {
         this.list = list;
     }
 
-    public ArrayList<DigitalVideoList> getList() {
+    public ArrayList<DigitalVideoDisc> getList() {
         return list;
     }
 
